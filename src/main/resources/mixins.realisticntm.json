@@ -8,8 +8,12 @@
     "MixinContaminationUtil"
   ],
   "client": [
+<<<<<<< HEAD
     "MixinHazardTypeRadiation",
     "MixinHazardSystem"
+=======
+    "MixinHazardTypeRadiation"
+>>>>>>> 678bf43fba2c86bf348971819cc46252882eb0c2
   ],
   "server": [],
   "minVersion": "0.8"
