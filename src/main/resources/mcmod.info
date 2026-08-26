@@ -1,0 +1,12 @@
+[{
+    "modid": "realisticntm",
+    "name": "Realistic NTM Addon",
+    "description": "It makes NTM regarding the nuclear industry and the mechanics of radioactivity more realistic.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "logoFile": "",
+    "url": "",
+    "authorList": ["Gerzo"],
+    "credits": "",
+    "dependencies": ["hbm"]
+}]
