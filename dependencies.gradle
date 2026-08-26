@@ -1,0 +1,5 @@
+//file:noinspection DependencyNotationArgument
+dependencies {
+    // NTM: Community Edition (the mod this addon depends on)
+    implementation rfg.deobf("curse.maven:hbm-nuclear-tech-mod-community-edition-1312314:8330665") // 2.5.0.5
+}

@@ -1,0 +1,16 @@
+{
+  "required": true,
+  "package": "com.realisticntm.mixin",
+  "refmap": "mixins.realisticntm.refmap.json",
+  "compatibilityLevel": "JAVA_8",
+  "target": "@env(MOD)",
+  "mixins": [
+    "MixinContaminationUtil"
+  ],
+  "client": [
+    "MixinHazardTypeRadiation",
+    "MixinHazardSystem"
+  ],
+  "server": [],
+  "minVersion": "0.8"
+}
